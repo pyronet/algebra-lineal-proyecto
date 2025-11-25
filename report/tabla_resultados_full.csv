@@ -1,0 +1,39 @@
+Caso,n,Tipo,Prec.,Iter.,Tiempo (s),maxiter,restart,__origen__
+DENSE_LS,500,DENSA LS,—,,0.2940,,,resultados_completos.csv
+DENSE_LS,1000,DENSA LS,—,,0.9581,,,resultados_completos.csv
+DENSE_SPD,500,DENSA SPD,—,920.0,0.0700,2000.0,,resultados_completos.csv
+DENSE_SPD,500,DENSA SPD,—,2000.0,0.7353,2000.0,30.0,resultados_completos.csv
+DENSE_SPD,500,DENSA SPD,—,,0.0168,,,resultados_completos.csv
+DENSE_SPD,500,DENSA SPD,—,,0.0632,,,resultados_completos.csv
+DENSE_SPD,1000,DENSA SPD,—,1891.0,0.7241,2000.0,,resultados_completos.csv
+DENSE_SPD,1000,DENSA SPD,—,2000.0,2.1596,2000.0,30.0,resultados_completos.csv
+DENSE_SPD,1000,DENSA SPD,—,,0.1361,,,resultados_completos.csv
+DENSE_SPD,1000,DENSA SPD,—,,0.4937,,,resultados_completos.csv
+DENSE_SPD,2000,DENSA SPD,—,2000.0,2.8855,2000.0,,resultados_completos.csv
+DENSE_SPD,2000,DENSA SPD,—,2000.0,5.6634,2000.0,30.0,resultados_completos.csv
+DENSE_SPD,2000,DENSA SPD,—,,1.0493,,,resultados_completos.csv
+DENSE_SPD,2000,DENSA SPD,—,,3.9141,,,resultados_completos.csv
+LAP1D,500,DISPERSA,ILU,1.0,0.0002,2000.0,,resultados_completos.csv
+LAP1D,500,DISPERSA,ILU,1.0,0.0004,2000.0,30.0,resultados_completos.csv
+LAP1D,500,DISPERSA,AMG,5.0,0.0055,2000.0,,resultados_completos.csv
+LAP1D,500,DISPERSA,AMG,6.0,0.0085,2000.0,30.0,resultados_completos.csv
+LAP1D,500,DISPERSA,—,250.0,0.0079,2000.0,,resultados_completos.csv
+LAP1D,500,DISPERSA,—,2000.0,0.5924,2000.0,30.0,resultados_completos.csv
+LAP1D,500,DISPERSA,—,,0.0258,,,resultados_completos.csv
+LAP1D,500,DISPERSA,—,,0.0768,,,resultados_completos.csv
+LAP1D,1000,DISPERSA,ILU,1.0,0.0002,2000.0,,resultados_completos.csv
+LAP1D,1000,DISPERSA,ILU,1.0,0.0004,2000.0,30.0,resultados_completos.csv
+LAP1D,1000,DISPERSA,AMG,6.0,0.0077,2000.0,,resultados_completos.csv
+LAP1D,1000,DISPERSA,AMG,6.0,0.0092,2000.0,30.0,resultados_completos.csv
+LAP1D,1000,DISPERSA,—,500.0,0.0227,2000.0,,resultados_completos.csv
+LAP1D,1000,DISPERSA,—,2000.0,0.6308,2000.0,30.0,resultados_completos.csv
+LAP1D,1000,DISPERSA,—,,0.0977,,,resultados_completos.csv
+LAP1D,1000,DISPERSA,—,,0.4262,,,resultados_completos.csv
+LAP1D,2000,DISPERSA,ILU,1.0,0.0003,2000.0,,resultados_completos.csv
+LAP1D,2000,DISPERSA,ILU,1.0,0.0005,2000.0,30.0,resultados_completos.csv
+LAP1D,2000,DISPERSA,AMG,6.0,0.0083,2000.0,,resultados_completos.csv
+LAP1D,2000,DISPERSA,AMG,6.0,0.0179,2000.0,30.0,resultados_completos.csv
+LAP1D,2000,DISPERSA,—,1000.0,0.0485,2000.0,,resultados_completos.csv
+LAP1D,2000,DISPERSA,—,2000.0,0.8483,2000.0,30.0,resultados_completos.csv
+LAP1D,2000,DISPERSA,—,,0.9272,,,resultados_completos.csv
+LAP1D,2000,DISPERSA,—,,3.8094,,,resultados_completos.csv
